@@ -1,6 +1,6 @@
 # mini-project
 
-[My_Video]()
+[My_Video](https://youtu.be/WvwwMrgAgHQ)
 
 Was your social distance detector effective at detecting potential violations? Are you able to describe how the distance detector is applying its calculations of either being safe or noting a violation?
 
