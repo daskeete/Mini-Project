@@ -13,3 +13,6 @@ Do you think this approach would be effective for estimating new infections in r
 
 
 What limitations or improvements might you include in order to improve your proposed design?
+
+it is not very good at recognizing people standing in a straight line
+not very good at detecting violations when people are standing very close to the camera whether it's a small or large group
