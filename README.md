@@ -1,4 +1,4 @@
-# mini-project
+# Mini-Project
 
 [My_Video](https://youtu.be/WvwwMrgAgHQ)
 
